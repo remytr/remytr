@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Remy and I'm a recent graduate from Imperial College London.
 - 👀 I’m interested in Data Science, Medtech, and Fintech.
-- 🌱 I’m currently transitioning into the role of data analyst through IO-Sphere. 
+- 🌱 I’m currently a data analyst at Sky. 
 - 📫 Reach me through my [LinkedIn](https://www.linkedin.com/in/remy-tran-599355182/).
 
 <!---
