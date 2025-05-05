@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Remy and I'm a graduate from Imperial College London.
-- 🌱 I’m currently a Data Analyst at Sky
+- 🌱 I’m currently an Analyst at Sky
 - Learning Machine Learning and Quantitative Finance
 - 📫 Reach me through my [LinkedIn](https://www.linkedin.com/in/remy-tran-599355182/).
 
